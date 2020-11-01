@@ -56,7 +56,10 @@ Part 5 is to apply the cluster algorithms to the data above. That would generate
 
 
 HOW TO RUN:
-python main.py
+- Dataset 1 - Sickness :
+  https://github.com/mnn2108/UL_DimensionReduction/blob/main/UL_DimReduction.ipynb 
+- Dataset 2 - Poker hand : 
+  https://github.com/mnn2108/UL_DimensionReduction/blob/main/UL_DimReduction-%20Dat2-Poker.ipynb
 
 
 
